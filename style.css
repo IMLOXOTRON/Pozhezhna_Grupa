@@ -1,5 +1,6 @@
 body{
 background-color: rgb(74, 74, 81);
+      color: white;
 }
 a{
       text-decoration: none;
@@ -14,3 +15,8 @@ a{
       color:gray;
       border: 5px solid rgb(150, 50, 18);
       background-color: rgb(58, 58, 61);
+ }
+header{
+font-size: 60px;
+     background-color: rgb(201, 37, 0); 
+}
